@@ -5,13 +5,13 @@
 
 ## Worked  
 ###  2020.02 SmartStudyGames    
-    - 몬스터 슈퍼 리그  
+> 몬스터 슈퍼 리그  
 ### 2018.02 SmartStudy    
-    - 몬스터 슈퍼 리그  
-    - 아기 상어 캐쥬얼 게임    
+> 몬스터 슈퍼 리그  
+> 아기 상어 캐쥬얼 게임    
 ### 2016.08 Plustonic    
-    - 판타지 스쿼드  
-    - Project D  
+> 판타지 스쿼드  
+> Project D  
 
 
 <!--
