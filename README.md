@@ -4,12 +4,12 @@
 # Lee Yong Sun  
 
 ## Worked  
-###  2020.02 SmartStudyGames    
+###  2020.02 ~ Now SmartStudyGames    
 > 몬스터 슈퍼 리그  
-### 2018.02 SmartStudy    
+### 2018.02 ~ 2020.02 SmartStudy    
 > 몬스터 슈퍼 리그  
 > 아기 상어 캐쥬얼 게임    
-### 2016.08 Plustonic    
+### 2016.08 ~ 2018.02 Plustonic    
 > 판타지 스쿼드  
 > Project D  
 
