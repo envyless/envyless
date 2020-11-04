@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 
+## [A Letter of Self-Introduction](https://www.notion.so/38a416032bdc4cffaca63f5ee34f0160)  
+
+> 자기소개서 링크 입니다. 참고하시면 저를 아는데 큰 도움이 됩니다    
+  
 # Lee Yong Sun  
 
 ## Worked  
