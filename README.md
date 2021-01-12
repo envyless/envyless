@@ -8,7 +8,9 @@
 # Lee Yong Sun  
 
 ## Worked  
-###  2020.02 ~ Now SmartStudyGames    
+###  2021.01 ~ MoaiGames
+> Client Developer
+###  2020.02 ~ 2020.12 SmartStudyGames    
 > 몬스터 슈퍼 리그  
 ### 2018.02 ~ 2020.02 SmartStudy    
 > 몬스터 슈퍼 리그  (Turn Base RPG)  
