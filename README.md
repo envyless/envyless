@@ -9,15 +9,15 @@
 
 ## Worked  
 ###  2021.01 ~ MoaiGames
-> Client Developer
+> Client Developer 3D MMORPG  
 ###  2020.02 ~ 2020.12 SmartStudyGames    
-> 몬스터 슈퍼 리그  
+> 몬스터 슈퍼 리그 3D MORPG  
 ### 2018.02 ~ 2020.02 SmartStudy    
-> 몬스터 슈퍼 리그  (Turn Base RPG)  
-> 아기 상어 캐쥬얼 게임  (Casual)
+> 몬스터 슈퍼 리그  (Turn Base RPG) 3D MORPG  
+> 아기 상어 캐쥬얼 게임  (Casual) 2D Action
 ### 2016.08 ~ 2018.02 Plustonic    
-> 판타지 스쿼드 (Action RPG)  
-> Project D  (Tower offense game, Realtime PVP)
+> 판타지 스쿼드 (Action RPG)  2D Action
+> Project D  (Tower offense game, Realtime PVP) 
 
 
 <!--
