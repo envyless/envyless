@@ -7,8 +7,10 @@
   
 # Lee Yong Sun  
 
-## Worked  
-###  2021.01 ~ MoaiGames
+## Worked
+###  2021.05 ~  Nexon Korea
+> Game Programmer  
+###  2021.01 ~ 2021.05 MoaiGames
 > Client Developer 3D MMORPG  
 ###  2020.02 ~ 2020.12 SmartStudyGames    
 > 몬스터 슈퍼 리그 3D MORPG  
