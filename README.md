@@ -8,7 +8,7 @@
 # Lee Yong Sun  
 
 ## Worked
-###  2021.05 ~  Nexon Korea
+###  2021.05 ~  NK
 > Game Programmer  
 ###  2021.01 ~ 2021.05 MoaiGames
 > Client Developer 3D MMORPG  
